@@ -1,0 +1,32 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "admin",
+			"password": "123456",
+			"avatar": "https://lorempixel.com/640/480/people/?78623",
+			"role": "admin"
+		},
+		{
+			"id": 2,
+			"username": "member 1",
+			"password": "123456",
+			"avatar": "https://lorempixel.com/640/480/people/?78624",
+			"role": "member"
+		},
+		{
+			"id": 3,
+			"username": "member 3",
+			"password": "123456",
+			"avatar": "https://lorempixel.com/640/480/people/?78625",
+			"role": "member"
+		},
+		{
+			"id": 4,
+			"username": "member 4",
+			"password": "123456",
+			"avatar": "https://lorempixel.com/640/480/people/?78626",
+			"role": "member"
+		}
+	]
+}
